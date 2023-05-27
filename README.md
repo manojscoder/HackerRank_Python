@@ -1,2 +1,2 @@
-# HackerRank_Python
-Hi guys, here are the solutions for the Python challenges.
+# HACKERRANK_PYTHON_CHALLENGES
+Hi guys, here are my python challenges solutions from Day-1
