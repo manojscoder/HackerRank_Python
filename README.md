@@ -12,7 +12,7 @@
 
   Updated daily :) If it was helpful please press a star.</h4><br><br><br>
  
- <h2><u><b>Last commit: 28th May 2023</b></u></h2>
+ <h1><i><b>Last commit: 28th May 2023</b></i></h1>
 
 </body>
 </html>
