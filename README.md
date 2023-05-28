@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+ <head>
+  <style>
+   h1   {color: blue;}
+  </style>
 <body>
 
 <h1>Click below to view my profile @ HackerRank</h1>
@@ -12,7 +16,7 @@
 
   Updated daily :) If it was helpful please press a star.</h4>
  
- <h1 style="color:yellow;"><i><b>Last commit: 28th May 2023</b></i></h1>
+ <h1><i><b>Last commit: 28th May 2023</b></i></h1>
 
 </body>
 </html>
