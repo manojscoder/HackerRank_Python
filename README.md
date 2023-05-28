@@ -1,3 +1,4 @@
-# HACKERRANK_PYTHON_CHALLENGES
-Hi guys, here are my python challenges solutions from Day-1,
-Follow me on HackerRank----> Manoj_Suresh & ManojSuresh
+# Solutions to Hackerrank practice problems
+This repository contains all solutions to Hackerrank practice problems.
+
+Updated daily :) If it was helpful please press a star.
