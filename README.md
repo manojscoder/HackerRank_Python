@@ -10,9 +10,9 @@
  
  <h4>This repository contains all python solutions to Hackerrank practice problems.<br><br>
 
-  Updated daily :) If it was helpful please press a star.</h4><br>
+  Updated daily :) If it was helpful please press a star.</h4>
  
- <h1><i><b>Last commit: 28th May 2023</b></i></h1>
+ <h1 style="color:yellow;"><i><b>Last commit: 28th May 2023</b></i></h1>
 
 </body>
 </html>
