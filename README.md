@@ -6,7 +6,7 @@
 
 <p>The image below is a link. Try to click on it.</p>
 
-<a href="default.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<center><a href="https://www.hackerrank.com/Manoj_Suresh?hr_r=1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HTML tutorial" style="width:100px;height:100px;"></a><center>
 
 </body>
 </html>
