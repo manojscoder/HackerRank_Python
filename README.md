@@ -14,6 +14,26 @@
   Updated daily :) If it was helpful please press a star.</h4>
  
  <h1><i><b>Last commit: 28th May 2023</b></i></h1>
+ <ul>
+<li>Introduction
+<ul type="square"><br>
+  <li>Say Hello, World! With Python | <a href="https://www.hackerrank.com/challenges/py-hello-world/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Introduction/Say%20%22Hello%2C%20World!%22%20With%20Python.py">Solution</a> | Score: 5
+</li>
+  <li>Python If-Else | <a href="https://www.hackerrank.com/challenges/py-if-else/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Introduction/Python%20If-Else.py">Solution</a> | Score: 10
+</li>
+<li>Arithmetic Operators | <a href="https://www.hackerrank.com/challenges/python-arithmetic-operators/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Introduction/Arithmetic%20Operators.py">Solution</a> | Score: 10
+</li>
+<li>Python Division | <a href="https://www.hackerrank.com/challenges/python-division/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Introduction/Python%3A%20Division.py">Solution</a> | Score: 10
+</li>
+<li>Loops | <a href="https://www.hackerrank.com/challenges/python-loops/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Introduction/Loops.py">Solution</a> | Score: 10
+</li>
+<li>Write a function | <a href="https://www.hackerrank.com/challenges/write-a-function/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Introduction/Write%20a%20function.py">Solution</a> | Score: 10
+</li>
+<li>Print Function | <a href="https://www.hackerrank.com/challenges/python-print/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Introduction/Print%20Function.py">Solution</a> | Score: 20
+</li>
+</ul>
+</li>
+</ul>
 
 </body>
 </html>
