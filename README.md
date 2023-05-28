@@ -10,7 +10,9 @@
  
  <h4>This repository contains all python solutions to Hackerrank practice problems.<br><br>
 
-  Updated daily :) If it was helpful please press a star.</h4>
+  Updated daily :) If it was helpful please press a star.</h4><br><br><br>
+ 
+ <h2><u><b>Last commit: 28th May 2023</b></u></h2>
 
 </body>
 </html>
