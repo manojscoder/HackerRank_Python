@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<h2>Image as a Link</h2>
+<h1>Click below to view my profile @ HackerRank</h1>
 
-<p>The image below is a link. Try to click on it.</p>
+<p></p>
 
-<center><a align="center" href="https://www.hackerrank.com/Manoj_Suresh?hr_r=1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HTML tutorial" style="width:100px;height:100px;"></a></center>
+ <a align="center" href="https://www.hackerrank.com/Manoj_Suresh?hr_r=1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HTML tutorial" style="width:100px;height:100px;"></a>
 
 </body>
 </html>
