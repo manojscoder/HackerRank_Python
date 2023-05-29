@@ -13,7 +13,7 @@
 
   Updated daily :) If it was helpful please press a star.</h4>
  
- <h1><i><b>Last commit: 28th May 2023</b></i></h1>
+ <h1><i><b>Last commit: 29th May 2023</b></i></h1>
  <ul>
 <li>Introduction
 <ul type="square"><br>
@@ -33,7 +33,25 @@
 </li>
 </ul>
 </li>
-</ul>
+</ul><br>
+ 
+ 
+ 
+ <ul>
+<li>Basic Data Types
+<ul type="square"><br>
+  <li>List Comprehensions | <a href="https://www.hackerrank.com/challenges/list-comprehensions/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/List%20Comprehensions.py">Solution</a> | Score: 5
+</li>
+  <li>Find the Runner-Up Score | <a href="https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score.py">Solution</a> | Score: 10
+</li>
+<li>Nested Lists | <a href="https://www.hackerrank.com/challenges/nested-list/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/Nested%20Lists.py">Solution</a> | Score: 10
+</li>
+<li>Finding the percentage | <a href="https://www.hackerrank.com/challenges/finding-the-percentage/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/Find%20the%20percentage.py">Solution</a> | Score: 10
+</li>
+<li>Lists | <a href="https://www.hackerrank.com/challenges/python-lists/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/Lists.py">Solution</a> | Score: 10
+</li>
+<li>Tuples | <a href="https://www.hackerrank.com/challenges/python-tuples/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/Tuples.py">Solution</a> | Score: 10
+</li>
 
 </body>
 </html>
