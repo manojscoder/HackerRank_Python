@@ -40,7 +40,7 @@
  <ul>
 <li>Basic Data Types
 <ul type="square"><br>
-  <li>List Comprehensions | <a href="https://www.hackerrank.com/challenges/list-comprehensions/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/List%20Comprehensions.py">Solution</a> | Score: 5
+  <li>List Comprehensions | <a href="https://www.hackerrank.com/challenges/list-comprehensions/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/List%20Comprehensions.py">Solution</a> | Score: 10
 </li>
   <li>Find the Runner-Up Score | <a href="https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score.py">Solution</a> | Score: 10
 </li>
