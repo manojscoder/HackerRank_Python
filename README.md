@@ -52,8 +52,7 @@
 </li>
 <li>Tuples | <a href="https://www.hackerrank.com/challenges/python-tuples/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/Tuples.py">Solution</a> | Score: 10
 </li>
- </ul>
- 
+ </ul></li></ul><br>
  
  <ul>
 <li>Strings
