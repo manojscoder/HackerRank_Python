@@ -63,7 +63,7 @@
 </li>
 <li>What's Your Name? | <a href="https://www.hackerrank.com/challenges/whats-your-name/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/What's%20Your%20Name%3F.py">Solution</a> | Score: 10
 </li>
-<li>Mutations | <a href="https://www.hackerrank.com/challenges/mutations/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Mutations.py">Solution</a> | Score: 10
+<li>Mutations | <a href="https://www.hackerrank.com/challenges/python-mutations/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Mutations.py">Solution</a> | Score: 10
 </li>
 <li>Find a string | <a href="https://www.hackerrank.com/challenges/find-a-string/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Find%20a%20string.py">Solution</a> | Score: 10
 
