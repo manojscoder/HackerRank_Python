@@ -13,7 +13,7 @@
 
   Updated daily :) If it was helpful please press a star.</h4>
  
- <h1><i><b>Last commit: 29th May 2023</b></i></h1>
+ 
  <ul>
 <li>Introduction
 <ul type="square"><br>
@@ -52,6 +52,23 @@
 </li>
 <li>Tuples | <a href="https://www.hackerrank.com/challenges/python-tuples/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Basic%20Data%20Types/Tuples.py">Solution</a> | Score: 10
 </li>
+ </ul>
+ 
+ 
+ <ul>
+<li>Strings
+<ul type="square"><br>
+  <li>sWAP cASE | <a href="https://www.hackerrank.com/challenges/swap-case/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/sWAP%20cASE.py">Solution</a> | Score: 10
+</li>
+  <li>String Split and Join | <a href="https://www.hackerrank.com/challenges/python-string-split-and-join/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/String%20Split%20and%20Join.py">Solution</a> | Score: 10
+</li>
+<li>What's Your Name? | <a href="https://www.hackerrank.com/challenges/whats-your-name/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/What's%20Your%20Name%3F.py">Solution</a> | Score: 10
+</li>
+<li>Mutations | <a href="https://www.hackerrank.com/challenges/mutations/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Mutations.py">Solution</a> | Score: 10
+</li>
+<li>Find a string | <a href="https://www.hackerrank.com/challenges/find-a-string/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Find%20a%20string.py">Solution</a> | Score: 10
+
+ </ul>
 
 </body>
 </html>
