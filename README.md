@@ -66,8 +66,20 @@
 <li>Mutations | <a href="https://www.hackerrank.com/challenges/python-mutations/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Mutations.py">Solution</a> | Score: 10
 </li>
 <li>Find a string | <a href="https://www.hackerrank.com/challenges/find-a-string/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Find%20a%20string.py">Solution</a> | Score: 10
+ </li>
+  <li>String Validators | <a href="https://www.hackerrank.com/challenges/string-validators/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/String%20Validators.py">Solution</a> | Score: 10
+</li>
+  <li>Text Alignment | <a href="https://www.hackerrank.com/challenges/text-alignment/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Text%20Alignment.py">Solution</a> | Score: 10
+</li>
+<li>Text Wrap | <a href="https://www.hackerrank.com/challenges/text-wrap/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Text%20Wrap.py">Solution</a> | Score: 10
+</li>
+<li>Designer Door Mat | <a href="https://www.hackerrank.com/challenges/designer-door-mat/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Designer%20door%20mat.py">Solution</a> | Score: 10
+</li>
+<li>String Formatting | <a href="https://www.hackerrank.com/challenges/python-string-formatting/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/String%20formatting.py">Solution</a> | Score: 10
+ </li>
+ 
 
- </ul>
+ </ul></li></ul><br>
  
  <h1>In progress......</h1>
 
