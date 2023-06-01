@@ -78,11 +78,11 @@
 </li>
 <li>String Formatting | <a href="https://www.hackerrank.com/challenges/python-string-formatting/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/String%20formatting.py">Solution</a> | Score: 10
  </li>
- <li>Alphabet Rangoli | <a href="https://www.hackerrank.com/challenges/alphabet-rangoli/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Alphabet%20Rangoli.py">Solution</a> | Score: 10
+ <li>Alphabet Rangoli | <a href="https://www.hackerrank.com/challenges/alphabet-rangoli/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Alphabet%20Rangoli.py">Solution</a> | Score: 20
 </li>
-<li>Capitalize | <a href="https://www.hackerrank.com/challenges/capitalize/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Capitalize.py">Solution</a> | Score: 10
+<li>Capitalize | <a href="https://www.hackerrank.com/challenges/capitalize/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/Capitalize.py">Solution</a> | Score: 20
 </li>
-<li>The Minion Game | <a href="https://www.hackerrank.com/challenges/the-minion-game/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/The%20Minion%20Game.py">Solution</a> | Score: 20
+<li>The Minion Game | <a href="https://www.hackerrank.com/challenges/the-minion-game/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Strings/The%20Minion%20Game.py">Solution</a> | Score: 40
 </li>
  
 
