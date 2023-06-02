@@ -88,6 +88,24 @@
 
  </ul></li></ul><br>
  
+ <ul>
+<li>Sets
+<ul type="square"><br>
+  <li>Introduction to sets | <a href="https://www.hackerrank.com/challenges/py-introduction-to-sets/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Introduction%20to%20sets.py">Solution</a> | Score: 10
+</li>
+  <li>No idea! | <a href="https://www.hackerrank.com/challenges/no-idea/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/No%20idea!.py">Solution</a> | Score: 50
+</li>
+<li>Symmetric difference | <a href="https://www.hackerrank.com/challenges/symmetric-difference/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Symmetric%20Difference.py">Solution</a> | Score: 10
+</li>
+<li>set.add() | <a href="https://www.hackerrank.com/challenges/py-set-add/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set.add().py">Solution</a> | Score: 10
+</li>
+<li>Set.discard(), .remove(), .pop() | <a href="https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set.discard()%2Cremove()%20%26%20pop().py">Solution</a> | Score: 10
+ </li>
+  
+ 
+
+ </ul></li></ul><br>
+ 
  <h1>In progress......</h1>
 
 </body>
