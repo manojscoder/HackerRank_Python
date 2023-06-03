@@ -105,7 +105,7 @@
  
   <li>Set .union() Operation | <a href="https://www.hackerrank.com/challenges/py-set-union/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20.union()%20Operation.py">Solution</a> | Score: 10
 </li>
-  <li>Set .intersection() Operation | <a href="https://www.hackerrank.com/challenges/py-set-intersection-operation/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20.intersection()%20Operation.py">Solution</a> | Score: 50
+  <li>Set .intersection() Operation | <a href="https://www.hackerrank.com/challenges/py-set-intersection-operation/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20.intersection()%20Operation.py">Solution</a> | Score: 10
 </li>
 <li>set .difference() Operation | <a href="https://www.hackerrank.com/challenges/py-set-difference-operation/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20.difference%20Operation.py">Solution</a> | Score: 10
 </li>
