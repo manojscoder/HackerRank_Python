@@ -101,6 +101,18 @@
 </li>
 <li>Set.discard(), .remove(), .pop() | <a href="https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set.discard()%2Cremove()%20%26%20pop().py">Solution</a> | Score: 10
  </li>
+ 
+ 
+  <li>Set .union() Operation | <a href="https://www.hackerrank.com/challenges/py-set-union/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20.union()%20Operation.py">Solution</a> | Score: 10
+</li>
+  <li>Set .intersection() Operation | <a href="https://www.hackerrank.com/challenges/py-set-intersection-operation/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20.intersection()%20Operation.py">Solution</a> | Score: 50
+</li>
+<li>set .difference() Operation | <a href="https://www.hackerrank.com/challenges/py-set-difference-operation/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20.difference%20Operation.py">Solution</a> | Score: 10
+</li>
+<li>Set .Symmetric_difference Operation | <a href="https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20.symmetric_difference()%20Operation.py">Solution</a> | Score: 10
+</li>
+<li>Set Mutations | <a href="https://www.hackerrank.com/challenges/py-set-mutations/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20Mutations.py">Solution</a> | Score: 10
+ </li>
   
  
 
