@@ -113,6 +113,14 @@
 </li>
 <li>Set Mutations | <a href="https://www.hackerrank.com/challenges/py-set-mutations/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Set%20Mutations.py">Solution</a> | Score: 10
  </li>
+ 
+ <li>The Captain's Room | <a href="https://www.hackerrank.com/challenges/py-the-captains-room/problem">Problem</a> | 
+  <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/The%20Captain's%20Room.py">Solution</a> | Score: 10
+</li>
+<li>Check Subset | <a href="https://www.hackerrank.com/challenges/py-check-subset/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Check%20subset.py">Solution</a> | Score: 10
+</li>
+<li>Check Strict SuperSet | <a href="https://www.hackerrank.com/challenges/py-check-strict-superset/problem">Problem</a> | <a href="https://github.com/manojscoder/HackerRank_Python/blob/main/Sets/Check%20Strict%20SuperSet.py">Solution</a> | Score: 10
+ </li>
   
  
 
